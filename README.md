@@ -1,3 +1,3 @@
-![Coverage Badge](./coverage/badge.svg)
+![Coverage Badge](./coverage/badge-statements.svg)
 
 Here be dragons
