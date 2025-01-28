@@ -1,1 +1,7 @@
 node_modules
+
+# Ignore everything in the coverage directory
+coverage/**/*
+
+# Except for .svg files
+!coverage/**/*.svg
